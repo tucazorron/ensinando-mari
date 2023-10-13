@@ -5,7 +5,12 @@
 Input: 5 inteiros separados por espaco representando 5 notas
 Output: media das 5 notas
 
-## 2. Passou ou nao
+## 2. Passou ou nao?
 
 Input: Input: 5 inteiros separados por espaco representando 5 notas
 Output: mencao alcancada e se passou ou nao
+
+## 3. Quem passou?
+
+Input: numero de alunos da sala. depois, n linhas com nome do aluno seguido de 5 notas
+Output: n alunos com sua media final ao lado
