@@ -1,6 +1,11 @@
 # Ensinando programacao pra Mari
 
-## 1. Notas das provas
+## 1. Media das notas
 
 Input: 5 inteiros separados por espaco representando 5 notas
-Output: media aritmetica das notas e se passou na materia (media >= 5)
+Output: media das 5 notas
+
+## 2. Passou ou nao
+
+Input: Input: 5 inteiros separados por espaco representando 5 notas
+Output: mencao alcancada e se passou ou nao
